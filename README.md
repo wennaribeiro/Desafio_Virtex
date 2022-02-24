@@ -3,7 +3,8 @@
 Dependências para executar o projeto:
 
 Instalar o Nodejs.
-Instalar NPM nas pastas dos arquivos backend e frotnend.
+
+Instalar NPM nas pastas dos arquivos backend e frontend.
 
 install npm
 
