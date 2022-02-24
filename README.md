@@ -1,4 +1,4 @@
-# Desafio_Virtex
+# Desafio Virtex
 
 Dependências para executar o projeto:
 
