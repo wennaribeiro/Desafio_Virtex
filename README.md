@@ -9,4 +9,5 @@ Instalar NPM nas pastas dos arquivos backend e frontend.
 install npm
 
 backend : npm run start
+
 frontend: npm start
